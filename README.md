@@ -1,3 +1,3 @@
 # Hello-World
 the first GitHub repo
-Thi sis the very first EDIT
+This is the very first EDIT
